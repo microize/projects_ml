@@ -8,9 +8,9 @@ Welcome to my distinguished repository of meticulously crafted machine learning 
 
 ## Project Showcase
 
-1. [Project 1: Detection of Conversion fraud in Digital Advertising](01.classification%20genuine%20and%20false%20conversions.ipynb)
+1. [Project 1: Detection of Conversion fraud in Digital Advertising](01.classification-genuine%20and%20false%20conversions.ipynb)
      - Classification problem to distinguish between genuine and false conversions.
-3. [Project 2: Connect 4 win or loss prediction](02.classification-connect4%20win%20orvloss%20prediction.ipynb)
+3. [Project 2: Connect 4 win or loss prediction](02.classification-connect4%20win%20or%20loss%20prediction.ipynb)
      - Classification problem to determine whether the first player has won the game based on the given Connect-4 positions.
 5. [Project 3: Phishing attack detection](03.classification-phising%20attack%20detection.ipynb)
      - Classification problem to detect phishing attacks.
